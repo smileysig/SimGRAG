@@ -1,6 +1,6 @@
 # SimGRAG
 
-The is the repository for the paper "SimGraphRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation".
+The is the repository for the paper "SimGRAG: Leveraging Similar Subgraphs for Knowledge Graphs Driven Retrieval-Augmented Generation".
 SimGRAG is a KG-driven RAG approach that can support various KG based tasks, such as question answering and fact verification.
 
 ## Prerequisites
