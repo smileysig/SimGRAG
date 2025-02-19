@@ -23,7 +23,7 @@ Next, we provide the preparation steps for the components we used.
 Please visit the [Ollama](https://ollama.com/) website to install Ollama on your local environment.
 After installation, you can use the following command to run the Llama 3 70B model:
 ```
-ollama run llama3:70b
+ollama run llama3.2
 ```
 Then, you can use the following command to start the service needed by SimGRAG:
 ```

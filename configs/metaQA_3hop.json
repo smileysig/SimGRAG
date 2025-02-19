@@ -17,7 +17,7 @@
         "timeout": 600
     },
     "llm": {
-        "model": "llama3:70b",
+        "model": "llama3.2",
         "base_url": "http://localhost:11451/v1",
         "api_key": "ollama",
         "temperature": 0.2,
